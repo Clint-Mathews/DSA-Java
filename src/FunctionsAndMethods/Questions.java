@@ -12,7 +12,7 @@ public class Questions {
         System.out.println("Is " + data+ " Armstrong : " + checkArmstrong(data));
         for(int i=1;i<1000;i++){
             if(checkArmstrong(i)) {
-            p    System.out.printf(i +" ");
+                System.out.println(i +" ");
             }
         }
     }
