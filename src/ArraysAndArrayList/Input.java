@@ -27,7 +27,7 @@ public class Input {
         for(int i=0;i<arrData.length;i++){
             arrData[i] = input.next();
         }
-        
+        arrData[2] = "Hello";
         System.out.println(Arrays.toString(arrData));
     }
 }
