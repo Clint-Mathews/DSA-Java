@@ -1,5 +1,4 @@
 # DSA-Java
-DSA-Java
 
 
 To run the code clone and open directly in IntelliJ IDEA
