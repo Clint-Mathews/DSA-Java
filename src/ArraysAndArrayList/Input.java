@@ -11,7 +11,6 @@ public class Input {
         arr[1]=1;
         arr[4]=4;
         arr[3]=3;
-
         System.out.println(Arrays.toString(arr));
         Scanner input = new Scanner(System.in);
         for(int i=0;i<arr.length;i++){
