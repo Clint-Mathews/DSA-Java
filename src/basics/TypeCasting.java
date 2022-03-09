@@ -1,4 +1,4 @@
-package com.clint;
+package basics;
 
 import java.util.Scanner;
 
